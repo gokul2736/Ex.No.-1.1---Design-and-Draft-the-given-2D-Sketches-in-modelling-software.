@@ -1,7 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## **Name: M.Gokul**  
-## **Reg No:24000042**  
+## **Reg No: 24000042**  
 
 ## AIM
 
